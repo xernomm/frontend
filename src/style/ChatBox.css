@@ -1,0 +1,6 @@
+.userChatBox{
+    border: 1px solid rgb(137, 11, 11);
+    border-radius: 20px 20px 0px 20px;
+    padding: 2%;
+    background-color: rgb(40, 40, 40);
+}
